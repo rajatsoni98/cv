@@ -51,9 +51,9 @@ h3 {
 
 .img {
   position: absolute;
-  bottom: 615px;
-  height: 100px;
-  right: 525px;
+  bottom:38.4375rem;
+  height:6.25rem;
+  right:32.8125rem;
 }
 
 hr {
@@ -104,17 +104,17 @@ h4 {
 .light {
   border-style: dashed none none none;
   border-width: 1px;
-  width: 730px;
+  width:46rem;
   position: relative;
-  right:190px;
+  right:11.875rem;
 }
 
 .lights {
   border-style: dashed none none none;
   border-width: 1px;
-  width: 760px;
+  width:47.5rem;
   position: relative;
-  right: 175px;
+  right:10.9375rem;
 }
 
 td {
