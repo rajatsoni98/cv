@@ -51,9 +51,9 @@ h3 {
 
 .img {
   position: absolute;
-  bottom:38.4375rem;
-  height:6.25rem;
-  right:32.8125rem;
+  bottom:550px;
+  height:100px;
+  right:300px;
 }
 
 hr {
